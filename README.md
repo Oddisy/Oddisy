@@ -14,12 +14,12 @@ I'm a frond end developer
 
 
 # Hi, I'm Odunayo 👋
- i'm a web developer , and I graduated from Yabatech college of technology 
-  and I love to create beautiful website and delightful user experiences
+ i'm a web developer ,  I love to create beautiful website and delightful user experiences
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS..., C
+Javascript, HTML, CSS..., C, currently learning React and lookimg forward to collaborate with any project
+
 
 
 ## Support
