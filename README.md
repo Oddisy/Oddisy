@@ -18,7 +18,7 @@ I'm a frond end developer
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS..., C, currently learning React and lookimg forward to collaborate with any project
+Javascript, HTML, CSS..., C, currently learning React and lookimg forward to collaborate in any project
 
 
 
